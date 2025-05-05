@@ -1,18 +1,5 @@
-[**Registration is open for the 2025 Reflections Program**](https://forms.gle/aq9vPiyHSoVjfY9t9)**!**
 
-**Dates: May 5-30, 2025** (1-2 hour/week for 4 weeks)
-
-This year we are adding a 4th week to teach our GitHub Clinic for publishing & project management (designed for collaboration skills for absolute beginners and seasoned version control users alike). Please join us!
-
-```{=html}
-<!---
-**Registration will open for the 2025 Reflections Program in early 2025!**
-
-*Previous dates: April 29 - May 17 2024, May 8 - May 26, 2023*
---->
-```
-
-# Welcome {.unnumbered}
+# Welcome - this is not the official source {.unnumbered}
 
 **Openscapes Reflections is an open data science coaching program for researchers and those who support research**. Reflections is a \<1 month program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. Running in May each year, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.
 
